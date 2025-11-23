@@ -1,7 +1,10 @@
 # Temp files
-pg_db/
+pg_db
 
 # Environment files
-.env/
+.env
 .weather
+
+# Bytecode cache
+__pycache__/
 
